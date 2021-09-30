@@ -1,0 +1,16 @@
+C:\Desarrollo\Csharp\ValidadoRut\bin\Debug\net5.0\ValidadoRut.exe
+C:\Desarrollo\Csharp\ValidadoRut\bin\Debug\net5.0\ValidadoRut.deps.json
+C:\Desarrollo\Csharp\ValidadoRut\bin\Debug\net5.0\ValidadoRut.runtimeconfig.json
+C:\Desarrollo\Csharp\ValidadoRut\bin\Debug\net5.0\ValidadoRut.runtimeconfig.dev.json
+C:\Desarrollo\Csharp\ValidadoRut\bin\Debug\net5.0\ValidadoRut.dll
+C:\Desarrollo\Csharp\ValidadoRut\bin\Debug\net5.0\ref\ValidadoRut.dll
+C:\Desarrollo\Csharp\ValidadoRut\bin\Debug\net5.0\ValidadoRut.pdb
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ValidadoRut.csproj.AssemblyReference.cache
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ValidadoRut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ValidadoRut.AssemblyInfoInputs.cache
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ValidadoRut.AssemblyInfo.cs
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ValidadoRut.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ValidadoRut.dll
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ref\ValidadoRut.dll
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ValidadoRut.pdb
+C:\Desarrollo\Csharp\ValidadoRut\obj\Debug\net5.0\ValidadoRut.genruntimeconfig.cache
